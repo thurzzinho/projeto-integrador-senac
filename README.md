@@ -146,9 +146,9 @@ Hospedado via [Render.com](https://render.com).
 ## 📅 Fases do Projeto
 
 - [x] **Fase 1** — Painel do Aluno (CRUD + Autenticação)
-- [ ] **Fase 2** — Painel do Professor (Avaliações)
-- [ ] **Fase 3** — Painel do Coordenador (Visão geral)
-- [ ] **Fase 4** — Portfólio público + Consulta por empresas
+- [x] **Fase 2** — Painel do Professor (Avaliações)
+- [x] **Fase 3** — Painel do Coordenador (Visão geral)
+- [x] **Fase 4** — Portfólio público + Consulta por empresas
 
 ---
 
